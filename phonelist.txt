@@ -1,0 +1,7 @@
+phones:
+
+iphonexr
+realme x2pro
+oppo f3
+vivo v19
+xiaomi mi10
